@@ -1,0 +1,24 @@
+#dul {list-style-type: none;
+  background-color: lightgray;
+  color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+center:auto;}
+#aul {
+  padding-left:2%;
+  display: inline;
+  padding-right: %;}
+input{border-color: red; display: inline-block;}
+h1{display: inline-block;margin-right: 20px; margin-left: 510px;}
+ul{list-style-type: none;}
+img{height: 150px;}
+#lua{
+  display:inline;   background-color:white;    }
+body {background-color:  lightgrey;}
+#hh{background-color: white;}
+p{
+  display:inline;   background-color:white;    }
+  ul{background-color: white; padding-right: 50%}
+  span{background-color: white;}
+  #jj{display: inline;}
+  #gg{display: inline-block; padding-left: 100px;}

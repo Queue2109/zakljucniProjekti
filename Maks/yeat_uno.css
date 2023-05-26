@@ -1,0 +1,71 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+	background-image: url("https://nshsdenebola.com/wp-content/uploads/2022/01/Untitled_Artwork-scaled.jpeg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2eb82e;
+  top:0;
+  left:0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #009933;
+}
+
+#yeat{
+  color: #00ff55;
+}
+
+h3 {
+  color: white;
+}
+
+#song{
+  color: #ffff00;
+}
+
+#album{
+  color: #cc0000;
+}
+#tik{
+  color: #00ffff;
+}
+#tok{
+  color: #ff0066;
+}
+#consert{
+  color: #1ac6ff;
+}
+#topten{
+  color:  #00cc99;
+}
+#link{
+  color: #008040;
+}
+h1{
+  text-align: center;
+  font-size: 90px;
+}
+
